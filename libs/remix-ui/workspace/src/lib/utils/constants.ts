@@ -87,6 +87,7 @@ export const TEMPLATE_NAMES = {
   'rln': 'Rate-Limiting Nullifier',
   'breakthroughLabsUniswapv4Hooks': 'Breakthrough-Labs Uniswapv4Hooks',
   'uniswapV4Periphery': 'Uniswap v4 Periphery',
+  'ecdsa': 'spartan-ecdsa'
 }
 
 export const TEMPLATE_METADATA = {
